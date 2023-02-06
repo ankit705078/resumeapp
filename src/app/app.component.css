@@ -1,0 +1,36 @@
+
+  .container {
+    min-height: 100vh;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+  }
+
+.content{
+  display: flex;
+  flex: 1;
+}
+
+.profileimgcontainer{
+  width: 33%;
+  background: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img{
+  width:80%;
+  border-radius: 47% 53% 53% 47% / 65% 46% 54% 35%;
+}
+
+.innercontentcontainer{
+  width: 66%;
+  background: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+

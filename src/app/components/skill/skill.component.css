@@ -1,0 +1,9 @@
+.skillContainer>h2{
+  background-color: brown;
+  width: fit-content;
+  padding: 20px;
+  border-radius: 19% 81% 32% 68% / 77% 32% 68% 23%;
+  color: white;
+  margin:0.5rem auto 0.5rem auto;
+  
+}

@@ -1,0 +1,18 @@
+/* Add application styles & imports to this file! */
+:root{
+  --bodybackgroundColor :  #ccf2ff;
+  --headerFooterbgColor : yellowgreen;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  }
+
+  body{
+    background-color:  var(--bodybackgroundColor);
+    min-height: 100vh;
+    
+  }
